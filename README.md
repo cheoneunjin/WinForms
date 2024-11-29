@@ -1,4 +1,27 @@
-# WinForms
-Hotel Resarvation Program
+# Hotel Resarvation Program
+
+## Info
+윈폼으로 개발할 수 있는 시스템 프로그램은 무엇인지 고민하다가 실제로 사용할 수 있을만한 프로그램을 개발해보고자 했습니다.
+호텔 고객을 관리할 수 있으면서 예약내역까지 관리하는 프로그램을 개발하게 되었습니다.
+
+## Tech Stack
+MS-SQL
+
+Visual Studio 2019
+
 C#
-MySQL
+
+
+---
+## 개발 기간
+2주
+
+## 담당업무
+- 윈폼 디자인 작업
+- 데이터 베이스 설계
+- 기능 개발
+
+
+
+
+
